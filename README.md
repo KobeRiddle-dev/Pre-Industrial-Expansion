@@ -8,7 +8,8 @@ A Rimworld mod expanding the pre-industrial game in a way that plays nice with t
 	- Avoid overlap
 	- Add patches when needed
 3. **Add processes for each tech tier so that production and crafting has a sensible progression**
-	- Wait doesn't a certain mod add this alongside a bunch of medieval stuff? -- Yes, but that mod doesn't allow for modularity, doesn't play nice with other mods, and changes a lot in Rimworld, almost like a total conversion. It's nearly all or nothing. I like that mod a lot, and respect what they have done. In fact, this mod and its companion mods exist because I went to the team of that mod and offered to help them create modular versions of its various components in order to help that mod fit into non-medieval playthroughs. This isn't something they're interested in at all.
+	- Wait, doesn't a certain popular mod add this alongside a bunch of medieval stuff?
+		- Yes, but that mod adds a whole lot of stuff and is kind of all-or-nothing. I like that mod a lot, and this mod actually exists because my offer to help make that mod more modular and compatible was turned down.
 4. **Where possible, avoid things being made purely redundant and obsolete by later tech.** 
 	- Sure, a laser sword will be better than a basic sword and an electric smithy is preferable to a basic workshop, but the more advanced versions rely on having the infrastructure and production chains established in order to make the materials and/or fuels needed, whereas the basic versions are readily available and cheap. Still obsolete and redundant, but not *purely* obsolete and redundant.
 
@@ -127,4 +128,4 @@ Neolithic:
 	- Patches for ideo styles to make certain styles apply to log tables, chairs, etc. instead of normal tables, chairs, etc.
 
 Medieval:
-- ? Do we even need any with VFE Medieval 2?
+- Messenger bird comms station
