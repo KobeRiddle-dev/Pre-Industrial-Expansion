@@ -9,7 +9,7 @@ A Rimworld mod expanding the pre-industrial game in a way that plays nice with t
 	- Add patches when needed
 3. **Add processes for each tech tier so that production and crafting has a sensible progression**
 	- Wait, doesn't a certain popular mod add this alongside a bunch of medieval stuff?
-		- Yes, but that mod adds a whole lot of stuff and is kind of all-or-nothing. I like that mod a lot, and this mod actually exists because my offer to help make that mod more modular and compatible was turned down.
+		- Yes, but that mod adds a whole lot of stuff and is kind of all-or-nothing. I like that mod a lot. I originally wanted to help make that mod more modular, but the author of that mod doesn't want it to be split into parts. That's within their rights as the owner of their intellectual property, and thus I began work on this project. :)
 4. **Where possible, avoid things being made purely redundant and obsolete by later tech.** 
 	- Sure, a laser sword will be better than a basic sword and an electric smithy is preferable to a basic workshop, but the more advanced versions rely on having the infrastructure and production chains established in order to make the materials and/or fuels needed, whereas the basic versions are readily available and cheap. Still obsolete and redundant, but not *purely* obsolete and redundant.
 
