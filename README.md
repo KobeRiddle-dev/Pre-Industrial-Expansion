@@ -88,7 +88,7 @@ Production Stations:
 - Medieval:
 	- Mechanical stone mill? Is that even a thing?
 - Industrial:
-	- Electric stonecutting bench (requires water with Dubs Bad Hygiene)
+	- Electric stonecutting bench (leave it to VFE Production)
 
 ### Metal Refining
 
@@ -102,7 +102,7 @@ Production Stations:
 		- Do we need coal or will charcoal do the trick? Maybe both is best
 	- Crucible or something, Advanced Smelter, 65% speed
 - Industrial:
-	- Industrial fueled smelter (vanilla)
+	- Industrial fueled smelter (VFE Production)
 	- Electric smelter (vanilla)
 ### Component production
 
